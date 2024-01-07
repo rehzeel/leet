@@ -11,4 +11,6 @@
     DP with binary search after sorting the arrays based on startTime.
     DP from maximizing, binary search to figure out the next possible element in the sequence.
 
+- 446. Arithmetic Slices II - Subsequence
 
+    DP with maintaining a map to store the length of previous subsequences and their differences and to quickly search if the current element can be added to those subsequences at every i.
