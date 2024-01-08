@@ -13,3 +13,6 @@
 
 - 446 Arithmetic Slices II - Subsequence :
     DP with maintaining a map to store the length of previous subsequences and their differences and to quickly search if the current element can be added to those subsequences at every i.
+
+- 938 Range Sum of BST :
+    Recursive solution, easy algorithm and implementation.
