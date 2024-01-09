@@ -16,3 +16,7 @@
 
 - 938 Range Sum of BST :
     Recursive solution, easy algorithm and implementation.
+
+- 872 Leaf-Similar Trees:
+    Easy, compile leaf nodes using dfs and compare them.
+
