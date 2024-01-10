@@ -20,3 +20,6 @@
 - 872 Leaf-Similar Trees:
     Easy, compile leaf nodes using dfs and compare them.
 
+- 2385 Amount of Time for Binary Tree to Be Infected:
+    Medium, Idea is to convert the tree into a graph then bfs the graph to get the answer.
+
